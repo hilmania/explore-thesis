@@ -1,0 +1,54 @@
+file_path,patient_id,session_id,duration_minutes,num_seizures,seizure_types,total_seizure_duration,quality_score,num_channels,suitable_for_prediction
+aaaaaaav/s001_2006/02_tcp_le/aaaaaaav_s001_t000.csv,aaaaaaav,s001_2006,33.2,1,cpsz,45.73649999999998,90,22,True
+aaaaaasf/s001_2003/02_tcp_le/aaaaaasf_s001_t000.csv,aaaaaasf,s001_2003,21.483333333333334,1,fnsz,11.335999999999785,75,22,True
+aaaaaauj/s003_2003/02_tcp_le/aaaaaauj_s003_t001.csv,aaaaaauj,s003_2003,23.05,1,fnsz,58.4849999999999,80,22,True
+aaaaabhz/s002_2010/01_tcp_ar/aaaaabhz_s002_t000.csv,aaaaabhz,s002_2010,26.683333333333334,2,cpsz,224.23120000000017,80,22,True
+aaaaabms/s001_2003/02_tcp_le/aaaaabms_s001_t001.csv,aaaaabms,s001_2003,30.35,1,gnsz,62.51999999999998,90,22,True
+aaaaacho/s002_2004/02_tcp_le/aaaaacho_s002_t000.csv,aaaaacho,s002_2004,28.25,1,fnsz,156.87599999999998,80,22,True
+aaaaacjb/s001_2004/02_tcp_le/aaaaacjb_s001_t001.csv,aaaaacjb,s001_2004,41.733333333333334,1,gnsz,33.0,100,22,True
+aaaaadyf/s001_2006/02_tcp_le/aaaaadyf_s001_t002.csv,aaaaadyf,s001_2006,33.4,1,absz,13.663999999999987,100,22,True
+aaaaaedy/s002_2004/02_tcp_le/aaaaaedy_s002_t001.csv,aaaaaedy,s002_2004,24.366666666666667,3,fnsz,72.57050000000004,75,22,True
+aaaaagoo/s003_2008/02_tcp_le/aaaaagoo_s003_t000.csv,aaaaagoo,s003_2008,21.716666666666665,2,fnsz,43.77819999999997,80,22,True
+aaaaagpk/s013_2014/01_tcp_ar/aaaaagpk_s013_t001.csv,aaaaagpk,s013_2014,60.016666666666666,1,gnsz,27.1570999999999,90,9,True
+aaaaagpk/s013_2014/01_tcp_ar/aaaaagpk_s013_t003.csv,aaaaagpk,s013_2014,60.0,6,gnsz,155.06240000000025,100,19,True
+aaaaagpk/s013_2014/01_tcp_ar/aaaaagpk_s013_t005.csv,aaaaagpk,s013_2014,60.016666666666666,1,gnsz,37.94250000000011,95,20,True
+aaaaahge/s001_2008/02_tcp_le/aaaaahge_s001_t001.csv,aaaaahge,s001_2008,26.0,4,cpsz,198.12400000000002,80,22,True
+aaaaaizz/s003_2010/02_tcp_le/aaaaaizz_s003_t001.csv,aaaaaizz,s003_2010,24.9,5,cpsz,122.82870000000003,80,22,True
+aaaaajkh/s001_2009/02_tcp_le/aaaaajkh_s001_t000.csv,aaaaajkh,s001_2009,28.233333333333334,1,fnsz,140.22000000000003,80,22,True
+aaaaajns/s001_2010/01_tcp_ar/aaaaajns_s001_t001.csv,aaaaajns,s001_2010,28.683333333333334,2,gnsz; fnsz,231.87130000000025,90,22,True
+aaaaajqo/s010_2010/03_tcp_ar_a/aaaaajqo_s010_t002.csv,aaaaajqo,s010_2010,37.06666666666667,1,cpsz,82.71090000000004,100,20,True
+aaaaajqo/s010_2010/03_tcp_ar_a/aaaaajqo_s010_t005.csv,aaaaajqo,s010_2010,30.266666666666666,1,cpsz,92.81639999999993,100,20,True
+aaaaajrj/s006_2012/01_tcp_ar/aaaaajrj_s006_t006.csv,aaaaajrj,s006_2012,39.81666666666667,1,cpsz,35.98669999999993,90,22,True
+aaaaakbz/s002_2010/01_tcp_ar/aaaaakbz_s002_t000.csv,aaaaakbz,s002_2010,34.56666666666667,1,fnsz,126.70000000000005,100,22,True
+aaaaakfo/s001_2010/02_tcp_le/aaaaakfo_s001_t000.csv,aaaaakfo,s001_2010,26.633333333333333,1,cpsz,167.29999999999995,80,22,True
+aaaaakkm/s007_2011/03_tcp_ar_a/aaaaakkm_s007_t000.csv,aaaaakkm,s007_2011,21.266666666666666,1,gnsz,44.98829999999998,90,20,True
+aaaaakoe/s004_2010/03_tcp_ar_a/aaaaakoe_s004_t002.csv,aaaaakoe,s004_2010,58.18333333333333,6,cpsz,409.5547000000006,100,20,True
+aaaaalak/s002_2015/01_tcp_ar/aaaaalak_s002_t000.csv,aaaaalak,s002_2015,24.75,1,fnsz,57.34230000000002,80,22,True
+aaaaamca/s004_2013/01_tcp_ar/aaaaamca_s004_t000.csv,aaaaamca,s004_2013,60.0,3,fnsz,42.97560000000021,100,13,True
+aaaaamhb/s001_2011/01_tcp_ar/aaaaamhb_s001_t000.csv,aaaaamhb,s001_2011,31.766666666666666,4,cpsz; fnsz,704.8483999999999,100,22,True
+aaaaamhj/s001_2011/01_tcp_ar/aaaaamhj_s001_t000.csv,aaaaamhj,s001_2011,27.033333333333335,3,gnsz,80.0625,80,22,True
+aaaaammu/s003_2012/01_tcp_ar/aaaaammu_s003_t002.csv,aaaaammu,s003_2012,29.016666666666666,1,tnsz,26.149599999999964,80,22,True
+aaaaamtk/s001_2012/01_tcp_ar/aaaaamtk_s001_t000.csv,aaaaamtk,s001_2012,55.61666666666667,25,spsz,844.2014000000001,85,22,True
+aaaaaogk/s001_2012/01_tcp_ar/aaaaaogk_s001_t002.csv,aaaaaogk,s001_2012,33.3,1,fnsz,95.96690000000012,100,22,True
+aaaaaogk/s002_2012/01_tcp_ar/aaaaaogk_s002_t002.csv,aaaaaogk,s002_2012,60.016666666666666,3,fnsz,84.40270000000055,100,4,True
+aaaaaooo/s001_2013/01_tcp_ar/aaaaaooo_s001_t000.csv,aaaaaooo,s001_2013,26.133333333333333,3,gnsz; fnsz,48.35169999999971,70,7,True
+aaaaaooo/s002_2013/01_tcp_ar/aaaaaooo_s002_t001.csv,aaaaaooo,s002_2013,56.75,1,gnsz,9.977699999999913,95,3,True
+aaaaapas/s001_2013/01_tcp_ar/aaaaapas_s001_t001.csv,aaaaapas,s001_2013,25.35,2,tcsz,97.28459999999995,80,22,True
+aaaaapks/s012_2014/01_tcp_ar/aaaaapks_s012_t001.csv,aaaaapks,s012_2014,39.13333333333333,19,fnsz,468.43049999999994,100,22,True
+aaaaaplb/s001_2013/01_tcp_ar/aaaaaplb_s001_t000.csv,aaaaaplb,s001_2013,43.63333333333333,1,fnsz,34.89409999999998,90,22,True
+aaaaapmd/s001_2013/01_tcp_ar/aaaaapmd_s001_t000.csv,aaaaapmd,s001_2013,58.55,1,gnsz,154.98889999999983,100,22,True
+aaaaapnl/s002_2013/01_tcp_ar/aaaaapnl_s002_t001.csv,aaaaapnl,s002_2013,38.583333333333336,13,fnsz,893.8159999999998,100,22,True
+aaaaaqkb/s001_2013/01_tcp_ar/aaaaaqkb_s001_t000.csv,aaaaaqkb,s001_2013,24.533333333333335,1,fnsz,124.92189999999982,80,22,True
+aaaaardk/s002_2014/03_tcp_ar_a/aaaaardk_s002_t004.csv,aaaaardk,s002_2014,59.96666666666667,5,fnsz,401.9981000000007,100,20,True
+aaaaaron/s001_2014/01_tcp_ar/aaaaaron_s001_t004.csv,aaaaaron,s001_2014,35.1,1,fnsz,152.27829999999994,100,22,True
+aaaaaroo/s003_2014/01_tcp_ar/aaaaaroo_s003_t001.csv,aaaaaroo,s003_2014,30.95,1,gnsz,215.02219999999988,100,22,True
+aaaaaroo/s004_2014/01_tcp_ar/aaaaaroo_s004_t001.csv,aaaaaroo,s004_2014,37.75,1,fnsz,14.968200000000024,100,22,True
+aaaaaroo/s005_2014/01_tcp_ar/aaaaaroo_s005_t002.csv,aaaaaroo,s005_2014,39.0,2,fnsz,45.11649999999986,100,22,True
+aaaaaroo/s005_2014/01_tcp_ar/aaaaaroo_s005_t003.csv,aaaaaroo,s005_2014,27.383333333333333,2,fnsz,22.058800000000247,70,22,True
+aaaaaroo/s006_2014/01_tcp_ar/aaaaaroo_s006_t002.csv,aaaaaroo,s006_2014,58.71666666666667,4,fnsz,127.02080000000024,90,22,True
+aaaaarqg/s001_2014/01_tcp_ar/aaaaarqg_s001_t000.csv,aaaaarqg,s001_2014,44.95,1,fnsz,72.93370000000004,90,22,True
+aaaaasdq/s002_2014/03_tcp_ar_a/aaaaasdq_s002_t004.csv,aaaaasdq,s002_2014,107.31666666666666,29,fnsz,1681.7015000000015,100,16,True
+aaaaates/s007_2015/01_tcp_ar/aaaaates_s007_t000.csv,aaaaates,s007_2015,60.0,14,fnsz,249.29559999999992,75,3,True
+aaaaates/s007_2015/01_tcp_ar/aaaaates_s007_t002.csv,aaaaates,s007_2015,60.016666666666666,11,gnsz; fnsz,175.7351000000001,100,22,True
+aaaaatez/s001_2015/01_tcp_ar/aaaaatez_s001_t000.csv,aaaaatez,s001_2015,25.566666666666666,1,fnsz,117.3913,80,22,True
+aaaaatjz/s001_2015/03_tcp_ar_a/aaaaatjz_s001_t000.csv,aaaaatjz,s001_2015,31.633333333333333,2,fnsz,373.3188,100,20,True

@@ -1,0 +1,27 @@
+# TUSZ Dataset Analyzer Requirements
+# ==================================
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# EEG data processing
+mne>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# System utilities
+pathlib2>=2.3.0
+argparse
+
+# Optional: for advanced analysis
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Optional: for progress bars
+tqdm>=4.64.0
+
+# Optional: for better JSON handling
+jsonlines>=3.1.0

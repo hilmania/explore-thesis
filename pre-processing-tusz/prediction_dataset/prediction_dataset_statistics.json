@@ -1,0 +1,32 @@
+{
+  "overview": {
+    "total_files": 53,
+    "total_duration_hours": 34.54,
+    "unique_patients": 43,
+    "average_quality_score": 90.0
+  },
+  "seizure_analysis": {
+    "total_seizures": 202,
+    "seizure_types_distribution": {
+      "cpsz": 23,
+      "fnsz": 122,
+      "gnsz": 28,
+      "absz": 1,
+      "tnsz": 1,
+      "spsz": 25,
+      "tcsz": 2
+    },
+    "duration_statistics": {
+      "mean_duration_minutes": 53.63869636963696,
+      "std_duration_minutes": 25.419138766435037,
+      "min_duration_minutes": 21.266666666666666,
+      "max_duration_minutes": 107.31666666666666
+    },
+    "quality_distribution": {
+      "mean_quality": 90.0,
+      "std_quality": 9.857474895770961,
+      "min_quality": 70,
+      "max_quality": 100
+    }
+  }
+}

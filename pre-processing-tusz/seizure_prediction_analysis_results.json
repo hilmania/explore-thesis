@@ -1,0 +1,2343 @@
+{
+  "analysis_time": "2025-07-14T07:08:44.555152",
+  "analysis_type": "seizure_prediction_selection",
+  "criteria": {
+    "min_duration_minutes": 20,
+    "min_duration_seconds": 1200,
+    "preictal_duration_minutes": 20,
+    "preictal_duration_seconds": 1200,
+    "requires_seizure_events": true
+  },
+  "dataset_structure": {},
+  "selected_files": [
+    {
+      "file_path": "aaaaaaav/s001_2006/02_tcp_le/aaaaaaav_s001_t000.csv",
+      "patient_id": "aaaaaaav",
+      "session_id": "s001_2006",
+      "file_name": "aaaaaaav_s001_t000.csv",
+      "duration_seconds": 1992.0,
+      "duration_minutes": 33.2,
+      "seizure_events": 4,
+      "seizure_types": [
+        "cpsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "cpsz",
+          "start_time": 1273.452,
+          "end_time": 1319.1885,
+          "duration": 45.73649999999998
+        },
+        {
+          "type": "cpsz",
+          "start_time": 1291.864,
+          "end_time": 1319.1885,
+          "duration": 23.15910000000008
+        },
+        {
+          "type": "cpsz",
+          "start_time": 1310.224,
+          "end_time": 1319.1885,
+          "duration": 8.964500000000044
+        },
+        {
+          "type": "cpsz",
+          "start_time": 1297.024,
+          "end_time": 1319.0165,
+          "duration": 21.992500000000064
+        }
+      ],
+      "suitable": true,
+      "rejection_reasons": []
+    }
+  ],
+  "rejected_files": [
+    {
+      "file_path": "aaaaaaac/s001_2002/02_tcp_le/aaaaaaac_s001_t000.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s001_2002",
+      "file_name": "aaaaaaac_s001_t000.csv",
+      "duration_seconds": 301.0,
+      "duration_minutes": 5.016666666666667,
+      "seizure_events": 1,
+      "seizure_types": [
+        "cpsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "cpsz",
+          "start_time": 36.8868,
+          "end_time": 237.2101,
+          "duration": 146.4187
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.0 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s001_2002/02_tcp_le/aaaaaaac_s001_t001.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s001_2002",
+      "file_name": "aaaaaaac_s001_t001.csv",
+      "duration_seconds": 236.0,
+      "duration_minutes": 3.933333333333333,
+      "seizure_events": 1,
+      "seizure_types": [
+        "cpsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "cpsz",
+          "start_time": 12.0764,
+          "end_time": 200.3233,
+          "duration": 122.09029999999998
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.9 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s002_2002/02_tcp_le/aaaaaaac_s002_t000.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s002_2002",
+      "file_name": "aaaaaaac_s002_t000.csv",
+      "duration_seconds": 262.0,
+      "duration_minutes": 4.366666666666666,
+      "seizure_events": 1,
+      "seizure_types": [
+        "cpsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "cpsz",
+          "start_time": 16.0173,
+          "end_time": 218.0379,
+          "duration": 141.7558
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 4.4 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s004_2002/02_tcp_le/aaaaaaac_s004_t000.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s004_2002",
+      "file_name": "aaaaaaac_s004_t000.csv",
+      "duration_seconds": 321.0,
+      "duration_minutes": 5.35,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.3 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s004_2002/02_tcp_le/aaaaaaac_s004_t002.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s004_2002",
+      "file_name": "aaaaaaac_s004_t002.csv",
+      "duration_seconds": 626.0,
+      "duration_minutes": 10.433333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 10.4 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s005_2002/02_tcp_le/aaaaaaac_s005_t000.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s005_2002",
+      "file_name": "aaaaaaac_s005_t000.csv",
+      "duration_seconds": 336.0,
+      "duration_minutes": 5.6,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.6 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s005_2002/02_tcp_le/aaaaaaac_s005_t001.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s005_2002",
+      "file_name": "aaaaaaac_s005_t001.csv",
+      "duration_seconds": 352.0,
+      "duration_minutes": 5.866666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.9 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s005_2002/02_tcp_le/aaaaaaac_s005_t002.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s005_2002",
+      "file_name": "aaaaaaac_s005_t002.csv",
+      "duration_seconds": 306.0,
+      "duration_minutes": 5.1,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaac/s005_2002/02_tcp_le/aaaaaaac_s005_t003.csv",
+      "patient_id": "aaaaaaac",
+      "session_id": "s005_2002",
+      "file_name": "aaaaaaac_s005_t003.csv",
+      "duration_seconds": 275.0,
+      "duration_minutes": 4.583333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 4.6 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s004_2007/03_tcp_ar_a/aaaaaaag_s004_t000.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s004_2007",
+      "file_name": "aaaaaaag_s004_t000.csv",
+      "duration_seconds": 1421.0,
+      "duration_minutes": 23.683333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s004_2007/03_tcp_ar_a/aaaaaaag_s004_t001.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s004_2007",
+      "file_name": "aaaaaaag_s004_t001.csv",
+      "duration_seconds": 101.0,
+      "duration_minutes": 1.6833333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.7 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s004_2007/03_tcp_ar_a/aaaaaaag_s004_t002.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s004_2007",
+      "file_name": "aaaaaaag_s004_t002.csv",
+      "duration_seconds": 473.0,
+      "duration_minutes": 7.883333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 7.9 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s005_2007/03_tcp_ar_a/aaaaaaag_s005_t000.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s005_2007",
+      "file_name": "aaaaaaag_s005_t000.csv",
+      "duration_seconds": 753.0,
+      "duration_minutes": 12.55,
+      "seizure_events": 1,
+      "seizure_types": [
+        "cpsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "cpsz",
+          "start_time": 58.03,
+          "end_time": 72.5225,
+          "duration": 14.424999999999997
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 12.6 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s006_2007/03_tcp_ar_a/aaaaaaag_s006_t000.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s006_2007",
+      "file_name": "aaaaaaag_s006_t000.csv",
+      "duration_seconds": 131.0,
+      "duration_minutes": 2.183333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s006_2007/03_tcp_ar_a/aaaaaaag_s006_t001.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s006_2007",
+      "file_name": "aaaaaaag_s006_t001.csv",
+      "duration_seconds": 1121.0,
+      "duration_minutes": 18.683333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 18.7 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaag/s006_2007/03_tcp_ar_a/aaaaaaag_s006_t002.csv",
+      "patient_id": "aaaaaaag",
+      "session_id": "s006_2007",
+      "file_name": "aaaaaaag_s006_t002.csv",
+      "duration_seconds": 600.0,
+      "duration_minutes": 10.0,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 10.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaar/s003_2007/02_tcp_le/aaaaaaar_s003_t000.csv",
+      "patient_id": "aaaaaaar",
+      "session_id": "s003_2007",
+      "file_name": "aaaaaaar_s003_t000.csv",
+      "duration_seconds": 1238.0,
+      "duration_minutes": 20.633333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaabg/s002_2006/02_tcp_le/aaaaaabg_s002_t000.csv",
+      "patient_id": "aaaaaabg",
+      "session_id": "s002_2006",
+      "file_name": "aaaaaabg_s002_t000.csv",
+      "duration_seconds": 1226.0,
+      "duration_minutes": 20.433333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaacc/s004_2004/02_tcp_le/aaaaaacc_s004_t000.csv",
+      "patient_id": "aaaaaacc",
+      "session_id": "s004_2004",
+      "file_name": "aaaaaacc_s004_t000.csv",
+      "duration_seconds": 1294.0,
+      "duration_minutes": 21.566666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaacz/s001_2003/02_tcp_le/aaaaaacz_s001_t001.csv",
+      "patient_id": "aaaaaacz",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaacz_s001_t001.csv",
+      "duration_seconds": 1196.0,
+      "duration_minutes": 19.933333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 19.9 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaacz/s003_2010/01_tcp_ar/aaaaaacz_s003_t000.csv",
+      "patient_id": "aaaaaacz",
+      "session_id": "s003_2010",
+      "file_name": "aaaaaacz_s003_t000.csv",
+      "duration_seconds": 1205.0,
+      "duration_minutes": 20.083333333333332,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaacz/s006_2015/03_tcp_ar_a/aaaaaacz_s006_t000.csv",
+      "patient_id": "aaaaaacz",
+      "session_id": "s006_2015",
+      "file_name": "aaaaaacz_s006_t000.csv",
+      "duration_seconds": 1391.0,
+      "duration_minutes": 23.183333333333334,
+      "seizure_events": 2,
+      "seizure_types": [
+        "fnsz",
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 1140.0394,
+          "end_time": 1185.0722,
+          "duration": 45.03280000000018
+        },
+        {
+          "type": "fnsz",
+          "start_time": 86.0306,
+          "end_time": 109.6364,
+          "duration": 23.605799999999988
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 1.4 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaaed/s001_2003/02_tcp_le/aaaaaaed_s001_t000.csv",
+      "patient_id": "aaaaaaed",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaaed_s001_t000.csv",
+      "duration_seconds": 120.0,
+      "duration_minutes": 2.0,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaed/s001_2003/02_tcp_le/aaaaaaed_s001_t001.csv",
+      "patient_id": "aaaaaaed",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaaed_s001_t001.csv",
+      "duration_seconds": 1395.0,
+      "duration_minutes": 23.25,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaafn/s001_2003/02_tcp_le/aaaaaafn_s001_t001.csv",
+      "patient_id": "aaaaaafn",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaafn_s001_t001.csv",
+      "duration_seconds": 1279.0,
+      "duration_minutes": 21.316666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaafs/s001_2003/02_tcp_le/aaaaaafs_s001_t000.csv",
+      "patient_id": "aaaaaafs",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaafs_s001_t000.csv",
+      "duration_seconds": 123.0,
+      "duration_minutes": 2.05,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaafs/s001_2003/02_tcp_le/aaaaaafs_s001_t001.csv",
+      "patient_id": "aaaaaafs",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaafs_s001_t001.csv",
+      "duration_seconds": 1381.0,
+      "duration_minutes": 23.016666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaagt/s001_2003/02_tcp_le/aaaaaagt_s001_t000.csv",
+      "patient_id": "aaaaaagt",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaagt_s001_t000.csv",
+      "duration_seconds": 120.0,
+      "duration_minutes": 2.0,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaagt/s001_2003/02_tcp_le/aaaaaagt_s001_t001.csv",
+      "patient_id": "aaaaaagt",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaagt_s001_t001.csv",
+      "duration_seconds": 1701.0,
+      "duration_minutes": 28.35,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaahc/s003_2007/02_tcp_le/aaaaaahc_s003_t000.csv",
+      "patient_id": "aaaaaahc",
+      "session_id": "s003_2007",
+      "file_name": "aaaaaahc_s003_t000.csv",
+      "duration_seconds": 1436.0,
+      "duration_minutes": 23.933333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaii/s002_2003/02_tcp_le/aaaaaaii_s002_t001.csv",
+      "patient_id": "aaaaaaii",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaaii_s002_t001.csv",
+      "duration_seconds": 1243.0,
+      "duration_minutes": 20.716666666666665,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaajk/s001_2003/02_tcp_le/aaaaaajk_s001_t000.csv",
+      "patient_id": "aaaaaajk",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaajk_s001_t000.csv",
+      "duration_seconds": 889.0,
+      "duration_minutes": 14.816666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 14.8 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaajk/s001_2003/02_tcp_le/aaaaaajk_s001_t001.csv",
+      "patient_id": "aaaaaajk",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaajk_s001_t001.csv",
+      "duration_seconds": 316.0,
+      "duration_minutes": 5.266666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.3 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaajk/s003_2004/02_tcp_le/aaaaaajk_s003_t001.csv",
+      "patient_id": "aaaaaajk",
+      "session_id": "s003_2004",
+      "file_name": "aaaaaajk_s003_t001.csv",
+      "duration_seconds": 1246.0,
+      "duration_minutes": 20.766666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s001_2003/02_tcp_le/aaaaaaju_s001_t000.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaaju_s001_t000.csv",
+      "duration_seconds": 1200.0,
+      "duration_minutes": 20.0,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s002_2006/02_tcp_le/aaaaaaju_s002_t000.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s002_2006",
+      "file_name": "aaaaaaju_s002_t000.csv",
+      "duration_seconds": 1103.0,
+      "duration_minutes": 18.383333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 18.4 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s003_2006/02_tcp_le/aaaaaaju_s003_t000.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s003_2006",
+      "file_name": "aaaaaaju_s003_t000.csv",
+      "duration_seconds": 1206.0,
+      "duration_minutes": 20.1,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s005_2010/01_tcp_ar/aaaaaaju_s005_t000.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s005_2010",
+      "file_name": "aaaaaaju_s005_t000.csv",
+      "duration_seconds": 1442.0,
+      "duration_minutes": 24.033333333333335,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s006_2011/01_tcp_ar/aaaaaaju_s006_t001.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s006_2011",
+      "file_name": "aaaaaaju_s006_t001.csv",
+      "duration_seconds": 1197.0,
+      "duration_minutes": 19.95,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 19.9 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaju/s007_2013/01_tcp_ar/aaaaaaju_s007_t000.csv",
+      "patient_id": "aaaaaaju",
+      "session_id": "s007_2013",
+      "file_name": "aaaaaaju_s007_t000.csv",
+      "duration_seconds": 1244.0,
+      "duration_minutes": 20.733333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaajv/s002_2004/02_tcp_le/aaaaaajv_s002_t000.csv",
+      "patient_id": "aaaaaajv",
+      "session_id": "s002_2004",
+      "file_name": "aaaaaajv_s002_t000.csv",
+      "duration_seconds": 1425.0,
+      "duration_minutes": 23.75,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t000.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t000.csv",
+      "duration_seconds": 194.0,
+      "duration_minutes": 3.2333333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t001.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t001.csv",
+      "duration_seconds": 235.0,
+      "duration_minutes": 3.9166666666666665,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.9 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t002.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t002.csv",
+      "duration_seconds": 185.0,
+      "duration_minutes": 3.0833333333333335,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t003.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t003.csv",
+      "duration_seconds": 302.0,
+      "duration_minutes": 5.033333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t004.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t004.csv",
+      "duration_seconds": 102.0,
+      "duration_minutes": 1.7,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.7 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s007_2003/01_tcp_ar/aaaaaakm_s007_t005.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s007_2003",
+      "file_name": "aaaaaakm_s007_t005.csv",
+      "duration_seconds": 214.0,
+      "duration_minutes": 3.566666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.6 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t000.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t000.csv",
+      "duration_seconds": 305.0,
+      "duration_minutes": 5.083333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t001.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t001.csv",
+      "duration_seconds": 181.0,
+      "duration_minutes": 3.0166666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t002.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t002.csv",
+      "duration_seconds": 245.0,
+      "duration_minutes": 4.083333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 4.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t003.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t003.csv",
+      "duration_seconds": 184.0,
+      "duration_minutes": 3.066666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t004.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t004.csv",
+      "duration_seconds": 255.0,
+      "duration_minutes": 4.25,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 4.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakm/s008_2003/01_tcp_ar/aaaaaakm_s008_t005.csv",
+      "patient_id": "aaaaaakm",
+      "session_id": "s008_2003",
+      "file_name": "aaaaaakm_s008_t005.csv",
+      "duration_seconds": 184.0,
+      "duration_minutes": 3.066666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaakv/s001_2003/02_tcp_le/aaaaaakv_s001_t000.csv",
+      "patient_id": "aaaaaakv",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaakv_s001_t000.csv",
+      "duration_seconds": 1209.0,
+      "duration_minutes": 20.15,
+      "seizure_events": 1,
+      "seizure_types": [
+        "fnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "fnsz",
+          "start_time": 9.048,
+          "end_time": 1206.908,
+          "duration": 1197.86
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 0.2 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaalb/s002_2004/02_tcp_le/aaaaaalb_s002_t001.csv",
+      "patient_id": "aaaaaalb",
+      "session_id": "s002_2004",
+      "file_name": "aaaaaalb_s002_t001.csv",
+      "duration_seconds": 1217.0,
+      "duration_minutes": 20.283333333333335,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaald/s001_2003/02_tcp_le/aaaaaald_s001_t000.csv",
+      "patient_id": "aaaaaald",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaald_s001_t000.csv",
+      "duration_seconds": 1402.0,
+      "duration_minutes": 23.366666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s001_2003/02_tcp_le/aaaaaalq_s001_t000.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaalq_s001_t000.csv",
+      "duration_seconds": 1360.0,
+      "duration_minutes": 22.666666666666668,
+      "seizure_events": 7,
+      "seizure_types": [
+        "fnsz",
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 1047.536,
+          "end_time": 1137.632,
+          "duration": 90.096
+        },
+        {
+          "type": "fnsz",
+          "start_time": 685.356,
+          "end_time": 777.276,
+          "duration": 91.91999999999996
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1005.564,
+          "end_time": 1137.732,
+          "duration": 132.168
+        },
+        {
+          "type": "fnsz",
+          "start_time": 965.232,
+          "end_time": 1137.932,
+          "duration": 172.70000000000005
+        },
+        {
+          "type": "fnsz",
+          "start_time": 715.0055,
+          "end_time": 777.276,
+          "duration": 62.258699999999976
+        },
+        {
+          "type": "fnsz",
+          "start_time": 987.436,
+          "end_time": 1137.932,
+          "duration": 150.49599999999998
+        },
+        {
+          "type": "gnsz",
+          "start_time": 991.772,
+          "end_time": 1137.732,
+          "duration": 145.95999999999992
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 11.4 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t000.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t000.csv",
+      "duration_seconds": 151.0,
+      "duration_minutes": 2.5166666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.5 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t001.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t001.csv",
+      "duration_seconds": 463.0,
+      "duration_minutes": 7.716666666666667,
+      "seizure_events": 3,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 33.888,
+          "end_time": 318.236,
+          "duration": 284.348
+        },
+        {
+          "type": "gnsz",
+          "start_time": 156.044,
+          "end_time": 310.236,
+          "duration": 154.19199999999998
+        },
+        {
+          "type": "gnsz",
+          "start_time": 25.888,
+          "end_time": 340.236,
+          "duration": 314.348
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 7.7 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t002.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t002.csv",
+      "duration_seconds": 492.0,
+      "duration_minutes": 8.2,
+      "seizure_events": 5,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 27.804,
+          "end_time": 366.272,
+          "duration": 338.468
+        },
+        {
+          "type": "gnsz",
+          "start_time": 194.452,
+          "end_time": 366.272,
+          "duration": 171.82
+        },
+        {
+          "type": "gnsz",
+          "start_time": 78.416,
+          "end_time": 348.272,
+          "duration": 269.856
+        },
+        {
+          "type": "gnsz",
+          "start_time": 211.804,
+          "end_time": 343.272,
+          "duration": 131.468
+        },
+        {
+          "type": "gnsz",
+          "start_time": 22.804,
+          "end_time": 384.272,
+          "duration": 361.468
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 8.2 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t003.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t003.csv",
+      "duration_seconds": 664.0,
+      "duration_minutes": 11.066666666666666,
+      "seizure_events": 5,
+      "seizure_types": [
+        "fnsz",
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 39.844,
+          "end_time": 365.116,
+          "duration": 325.272
+        },
+        {
+          "type": "gnsz",
+          "start_time": 185.452,
+          "end_time": 365.116,
+          "duration": 179.664
+        },
+        {
+          "type": "fnsz",
+          "start_time": 39.844,
+          "end_time": 422.616,
+          "duration": 325.272
+        },
+        {
+          "type": "gnsz",
+          "start_time": 204.04,
+          "end_time": 328.116,
+          "duration": 124.076
+        },
+        {
+          "type": "gnsz",
+          "start_time": 190.804,
+          "end_time": 319.116,
+          "duration": 128.31199999999998
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 11.1 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t004.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t004.csv",
+      "duration_seconds": 554.0,
+      "duration_minutes": 9.233333333333333,
+      "seizure_events": 4,
+      "seizure_types": [
+        "fnsz",
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 26.528,
+          "end_time": 400.9564,
+          "duration": 374.376
+        },
+        {
+          "type": "gnsz",
+          "start_time": 197.844,
+          "end_time": 401.024,
+          "duration": 203.18
+        },
+        {
+          "type": "fnsz",
+          "start_time": 26.528,
+          "end_time": 434.804,
+          "duration": 358.27599999999995
+        },
+        {
+          "type": "gnsz",
+          "start_time": 217.764,
+          "end_time": 365.064,
+          "duration": 147.3
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 9.2 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t005.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t005.csv",
+      "duration_seconds": 163.0,
+      "duration_minutes": 2.716666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.7 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaalq/s002_2003/02_tcp_le/aaaaaalq_s002_t006.csv",
+      "patient_id": "aaaaaalq",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaalq_s002_t006.csv",
+      "duration_seconds": 1463.0,
+      "duration_minutes": 24.383333333333333,
+      "seizure_events": 16,
+      "seizure_types": [
+        "fnsz",
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 22.96,
+          "end_time": 416.924,
+          "duration": 393.964
+        },
+        {
+          "type": "gnsz",
+          "start_time": 621.156,
+          "end_time": 755.156,
+          "duration": 134.0
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1054.924,
+          "end_time": 1340.04,
+          "duration": 274.0
+        },
+        {
+          "type": "gnsz",
+          "start_time": 1203.968,
+          "end_time": 1322.588,
+          "duration": 118.61999999999989
+        },
+        {
+          "type": "gnsz",
+          "start_time": 36.96,
+          "end_time": 416.924,
+          "duration": 379.964
+        },
+        {
+          "type": "fnsz",
+          "start_time": 36.96,
+          "end_time": 416.924,
+          "duration": 379.964
+        },
+        {
+          "type": "gnsz",
+          "start_time": 704.08,
+          "end_time": 755.08,
+          "duration": 51.0
+        },
+        {
+          "type": "fnsz",
+          "start_time": 561.272,
+          "end_time": 952.272,
+          "duration": 391.0
+        },
+        {
+          "type": "fnsz",
+          "start_time": 20.96,
+          "end_time": 416.924,
+          "duration": 395.964
+        },
+        {
+          "type": "gnsz",
+          "start_time": 599.196,
+          "end_time": 755.196,
+          "duration": 156.0
+        },
+        {
+          "type": "gnsz",
+          "start_time": 1073.8058,
+          "end_time": 1321.424,
+          "duration": 247.6181999999999
+        },
+        {
+          "type": "gnsz",
+          "start_time": 30.96,
+          "end_time": 416.924,
+          "duration": 385.964
+        },
+        {
+          "type": "fnsz",
+          "start_time": 30.96,
+          "end_time": 416.924,
+          "duration": 385.964
+        },
+        {
+          "type": "gnsz",
+          "start_time": 72.84,
+          "end_time": 417.076,
+          "duration": 344.20000000000005
+        },
+        {
+          "type": "fnsz",
+          "start_time": 25.96,
+          "end_time": 439.024,
+          "duration": 413.064
+        },
+        {
+          "type": "fnsz",
+          "start_time": 533.204,
+          "end_time": 950.204,
+          "duration": 417.0
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 0.3 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaamp/s003_2003/02_tcp_le/aaaaaamp_s003_t000.csv",
+      "patient_id": "aaaaaamp",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaamp_s003_t000.csv",
+      "duration_seconds": 1280.0,
+      "duration_minutes": 21.333333333333332,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaapo/s002_2003/02_tcp_le/aaaaaapo_s002_t000.csv",
+      "patient_id": "aaaaaapo",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaapo_s002_t000.csv",
+      "duration_seconds": 1225.0,
+      "duration_minutes": 20.416666666666668,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaqc/s004_2003/02_tcp_le/aaaaaaqc_s004_t001.csv",
+      "patient_id": "aaaaaaqc",
+      "session_id": "s004_2003",
+      "file_name": "aaaaaaqc_s004_t001.csv",
+      "duration_seconds": 1226.0,
+      "duration_minutes": 20.433333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaqc/s005_2005/02_tcp_le/aaaaaaqc_s005_t000.csv",
+      "patient_id": "aaaaaaqc",
+      "session_id": "s005_2005",
+      "file_name": "aaaaaaqc_s005_t000.csv",
+      "duration_seconds": 1219.0,
+      "duration_minutes": 20.316666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaqc/s011_2009/02_tcp_le/aaaaaaqc_s011_t000.csv",
+      "patient_id": "aaaaaaqc",
+      "session_id": "s011_2009",
+      "file_name": "aaaaaaqc_s011_t000.csv",
+      "duration_seconds": 1206.0,
+      "duration_minutes": 20.1,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaaql/s001_2003/02_tcp_le/aaaaaaql_s001_t000.csv",
+      "patient_id": "aaaaaaql",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaaql_s001_t000.csv",
+      "duration_seconds": 1504.0,
+      "duration_minutes": 25.066666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasf/s001_2003/02_tcp_le/aaaaaasf_s001_t000.csv",
+      "patient_id": "aaaaaasf",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaasf_s001_t000.csv",
+      "duration_seconds": 1289.0,
+      "duration_minutes": 21.483333333333334,
+      "seizure_events": 17,
+      "seizure_types": [
+        "fnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "fnsz",
+          "start_time": 42.2786,
+          "end_time": 81.776,
+          "duration": 39.4974
+        },
+        {
+          "type": "fnsz",
+          "start_time": 133.804,
+          "end_time": 162.1105,
+          "duration": 28.3065
+        },
+        {
+          "type": "fnsz",
+          "start_time": 222.636,
+          "end_time": 246.14,
+          "duration": 23.304000000000002
+        },
+        {
+          "type": "fnsz",
+          "start_time": 291.424,
+          "end_time": 316.456,
+          "duration": 24.932000000000016
+        },
+        {
+          "type": "fnsz",
+          "start_time": 451.688,
+          "end_time": 479.392,
+          "duration": 27.603999999999985
+        },
+        {
+          "type": "fnsz",
+          "start_time": 540.656,
+          "end_time": 565.772,
+          "duration": 25.1160000000001
+        },
+        {
+          "type": "fnsz",
+          "start_time": 602.38,
+          "end_time": 630.508,
+          "duration": 28.128000000000043
+        },
+        {
+          "type": "fnsz",
+          "start_time": 766.856,
+          "end_time": 785.576,
+          "duration": 18.720000000000027
+        },
+        {
+          "type": "fnsz",
+          "start_time": 831.836,
+          "end_time": 850.976,
+          "duration": 19.139999999999986
+        },
+        {
+          "type": "fnsz",
+          "start_time": 864.232,
+          "end_time": 894.636,
+          "duration": 30.403999999999996
+        },
+        {
+          "type": "fnsz",
+          "start_time": 917.2,
+          "end_time": 926.2746,
+          "duration": 9.074599999999919
+        },
+        {
+          "type": "fnsz",
+          "start_time": 943.852,
+          "end_time": 961.56,
+          "duration": 17.70799999999997
+        },
+        {
+          "type": "fnsz",
+          "start_time": 972.676,
+          "end_time": 997.036,
+          "duration": 24.3599999999999
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1039.012,
+          "end_time": 1057.72,
+          "duration": 18.708000000000084
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1078.76,
+          "end_time": 1105.608,
+          "duration": 26.847999999999956
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1163.372,
+          "end_time": 1186.848,
+          "duration": 23.475999999999885
+        },
+        {
+          "type": "fnsz",
+          "start_time": 1274.236,
+          "end_time": 1285.572,
+          "duration": 11.335999999999785
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 0.7 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaasf/s002_2003/02_tcp_le/aaaaaasf_s002_t000.csv",
+      "patient_id": "aaaaaasf",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaasf_s002_t000.csv",
+      "duration_seconds": 1224.0,
+      "duration_minutes": 20.4,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s001_2003/02_tcp_le/aaaaaasy_s001_t001.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s001_2003",
+      "file_name": "aaaaaasy_s001_t001.csv",
+      "duration_seconds": 1363.0,
+      "duration_minutes": 22.716666666666665,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 121.4946,
+          "end_time": 138.3357,
+          "duration": 16.841099999999997
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "First seizure at 2.0 min, need \u226520 min pre-ictal"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s002_2003/02_tcp_le/aaaaaasy_s002_t000.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s002_2003",
+      "file_name": "aaaaaasy_s002_t000.csv",
+      "duration_seconds": 1199.0,
+      "duration_minutes": 19.983333333333334,
+      "seizure_events": 4,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 234.7796,
+          "end_time": 279.012,
+          "duration": 44.23240000000001
+        },
+        {
+          "type": "gnsz",
+          "start_time": 316.6263,
+          "end_time": 326.876,
+          "duration": 10.249699999999962
+        },
+        {
+          "type": "gnsz",
+          "start_time": 350.312,
+          "end_time": 381.9981,
+          "duration": 31.68610000000001
+        },
+        {
+          "type": "gnsz",
+          "start_time": 418.192,
+          "end_time": 431.7364,
+          "duration": 13.544399999999996
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 20.0 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t000.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t000.csv",
+      "duration_seconds": 165.0,
+      "duration_minutes": 2.75,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 6.2825,
+          "end_time": 35.8875,
+          "duration": 29.605000000000004
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.8 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t001.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t001.csv",
+      "duration_seconds": 184.0,
+      "duration_minutes": 3.066666666666667,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 33.1425,
+          "end_time": 53.0008,
+          "duration": 19.8583
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 3.1 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t002.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t002.csv",
+      "duration_seconds": 129.0,
+      "duration_minutes": 2.15,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 9.7925,
+          "end_time": 29.1241,
+          "duration": 19.3016
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.1 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t003.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t003.csv",
+      "duration_seconds": 149.0,
+      "duration_minutes": 2.4833333333333334,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.5 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t004.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t004.csv",
+      "duration_seconds": 339.0,
+      "duration_minutes": 5.65,
+      "seizure_events": 2,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 10.2775,
+          "end_time": 35.7775,
+          "duration": 25.500000000000004
+        },
+        {
+          "type": "gnsz",
+          "start_time": 102.3525,
+          "end_time": 142.9802,
+          "duration": 40.62769999999999
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.7 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t005.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t005.csv",
+      "duration_seconds": 74.0,
+      "duration_minutes": 1.2333333333333334,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 9.555,
+          "end_time": 30.485,
+          "duration": 20.93
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.2 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t006.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t006.csv",
+      "duration_seconds": 75.0,
+      "duration_minutes": 1.25,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 25.3025,
+          "end_time": 44.9575,
+          "duration": 19.655000000000005
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.2 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t007.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t007.csv",
+      "duration_seconds": 165.0,
+      "duration_minutes": 2.75,
+      "seizure_events": 2,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 8.5325,
+          "end_time": 34.9854,
+          "duration": 26.4529
+        },
+        {
+          "type": "gnsz",
+          "start_time": 87.145,
+          "end_time": 111.1675,
+          "duration": 24.022500000000008
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 2.8 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t008.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t008.csv",
+      "duration_seconds": 71.0,
+      "duration_minutes": 1.1833333333333333,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 2.9212,
+          "end_time": 32.3607,
+          "duration": 29.439500000000002
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.2 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t009.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t009.csv",
+      "duration_seconds": 71.0,
+      "duration_minutes": 1.1833333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t010.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t010.csv",
+      "duration_seconds": 265.0,
+      "duration_minutes": 4.416666666666667,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 34.8275,
+          "end_time": 63.0425,
+          "duration": 28.214999999999996
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 4.4 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t011.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t011.csv",
+      "duration_seconds": 63.0,
+      "duration_minutes": 1.05,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 9.1971,
+          "end_time": 23.5505,
+          "duration": 14.353399999999999
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.1 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t012.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t012.csv",
+      "duration_seconds": 84.0,
+      "duration_minutes": 1.4,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 5.285,
+          "end_time": 26.4575,
+          "duration": 21.1725
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.4 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t013.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t013.csv",
+      "duration_seconds": 65.0,
+      "duration_minutes": 1.0833333333333333,
+      "seizure_events": 1,
+      "seizure_types": [
+        "gnsz"
+      ],
+      "seizure_details": [
+        {
+          "type": "gnsz",
+          "start_time": 19.7015,
+          "end_time": 28.5202,
+          "duration": 8.8187
+        }
+      ],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.1 min < 20 min"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t014.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t014.csv",
+      "duration_seconds": 68.0,
+      "duration_minutes": 1.1333333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s003_2003/01_tcp_ar/aaaaaasy_s003_t015.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s003_2003",
+      "file_name": "aaaaaasy_s003_t015.csv",
+      "duration_seconds": 73.0,
+      "duration_minutes": 1.2166666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s004_2003/02_tcp_le/aaaaaasy_s004_t000.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s004_2003",
+      "file_name": "aaaaaasy_s004_t000.csv",
+      "duration_seconds": 309.0,
+      "duration_minutes": 5.15,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s004_2003/02_tcp_le/aaaaaasy_s004_t001.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s004_2003",
+      "file_name": "aaaaaasy_s004_t001.csv",
+      "duration_seconds": 303.0,
+      "duration_minutes": 5.05,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.0 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s004_2003/02_tcp_le/aaaaaasy_s004_t002.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s004_2003",
+      "file_name": "aaaaaasy_s004_t002.csv",
+      "duration_seconds": 364.0,
+      "duration_minutes": 6.066666666666666,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 6.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s004_2003/02_tcp_le/aaaaaasy_s004_t003.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s004_2003",
+      "file_name": "aaaaaasy_s004_t003.csv",
+      "duration_seconds": 483.0,
+      "duration_minutes": 8.05,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 8.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s005_2003/02_tcp_le/aaaaaasy_s005_t000.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s005_2003",
+      "file_name": "aaaaaasy_s005_t000.csv",
+      "duration_seconds": 11.0,
+      "duration_minutes": 0.18333333333333332,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 0.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s005_2003/02_tcp_le/aaaaaasy_s005_t001.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s005_2003",
+      "file_name": "aaaaaasy_s005_t001.csv",
+      "duration_seconds": 315.0,
+      "duration_minutes": 5.25,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.2 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s005_2003/02_tcp_le/aaaaaasy_s005_t002.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s005_2003",
+      "file_name": "aaaaaasy_s005_t002.csv",
+      "duration_seconds": 65.0,
+      "duration_minutes": 1.0833333333333333,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s005_2003/02_tcp_le/aaaaaasy_s005_t003.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s005_2003",
+      "file_name": "aaaaaasy_s005_t003.csv",
+      "duration_seconds": 64.0,
+      "duration_minutes": 1.0666666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 1.1 min < 20 min",
+        "No seizure events found"
+      ]
+    },
+    {
+      "file_path": "aaaaaasy/s005_2003/02_tcp_le/aaaaaasy_s005_t004.csv",
+      "patient_id": "aaaaaasy",
+      "session_id": "s005_2003",
+      "file_name": "aaaaaasy_s005_t004.csv",
+      "duration_seconds": 313.0,
+      "duration_minutes": 5.216666666666667,
+      "seizure_events": 0,
+      "seizure_types": [],
+      "seizure_details": [],
+      "suitable": false,
+      "rejection_reasons": [
+        "Duration too short: 5.2 min < 20 min",
+        "No seizure events found"
+      ]
+    }
+  ],
+  "patient_analysis": {
+    "aaaaaaac": {
+      "total_files": 9,
+      "suitable_files": 0,
+      "total_duration": 3015.0,
+      "total_seizures": 3
+    },
+    "aaaaaaag": {
+      "total_files": 7,
+      "suitable_files": 0,
+      "total_duration": 4600.0,
+      "total_seizures": 1
+    },
+    "aaaaaaar": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1238.0,
+      "total_seizures": 0
+    },
+    "aaaaaaav": {
+      "total_files": 1,
+      "suitable_files": 1,
+      "total_duration": 1992.0,
+      "total_seizures": 4
+    },
+    "aaaaaabg": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1226.0,
+      "total_seizures": 0
+    },
+    "aaaaaacc": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1294.0,
+      "total_seizures": 0
+    },
+    "aaaaaacz": {
+      "total_files": 3,
+      "suitable_files": 0,
+      "total_duration": 3792.0,
+      "total_seizures": 2
+    },
+    "aaaaaaed": {
+      "total_files": 2,
+      "suitable_files": 0,
+      "total_duration": 1515.0,
+      "total_seizures": 0
+    },
+    "aaaaaafn": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1279.0,
+      "total_seizures": 0
+    },
+    "aaaaaafs": {
+      "total_files": 2,
+      "suitable_files": 0,
+      "total_duration": 1504.0,
+      "total_seizures": 0
+    },
+    "aaaaaagt": {
+      "total_files": 2,
+      "suitable_files": 0,
+      "total_duration": 1821.0,
+      "total_seizures": 0
+    },
+    "aaaaaahc": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1436.0,
+      "total_seizures": 0
+    },
+    "aaaaaaii": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1243.0,
+      "total_seizures": 0
+    },
+    "aaaaaajk": {
+      "total_files": 3,
+      "suitable_files": 0,
+      "total_duration": 2451.0,
+      "total_seizures": 0
+    },
+    "aaaaaaju": {
+      "total_files": 6,
+      "suitable_files": 0,
+      "total_duration": 7392.0,
+      "total_seizures": 0
+    },
+    "aaaaaajv": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1425.0,
+      "total_seizures": 0
+    },
+    "aaaaaakm": {
+      "total_files": 12,
+      "suitable_files": 0,
+      "total_duration": 2586.0,
+      "total_seizures": 0
+    },
+    "aaaaaakv": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1209.0,
+      "total_seizures": 1
+    },
+    "aaaaaalb": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1217.0,
+      "total_seizures": 0
+    },
+    "aaaaaald": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1402.0,
+      "total_seizures": 0
+    },
+    "aaaaaalq": {
+      "total_files": 8,
+      "suitable_files": 0,
+      "total_duration": 5310.0,
+      "total_seizures": 40
+    },
+    "aaaaaamp": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1280.0,
+      "total_seizures": 0
+    },
+    "aaaaaapo": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1225.0,
+      "total_seizures": 0
+    },
+    "aaaaaaqc": {
+      "total_files": 3,
+      "suitable_files": 0,
+      "total_duration": 3651.0,
+      "total_seizures": 0
+    },
+    "aaaaaaql": {
+      "total_files": 1,
+      "suitable_files": 0,
+      "total_duration": 1504.0,
+      "total_seizures": 0
+    },
+    "aaaaaasf": {
+      "total_files": 2,
+      "suitable_files": 0,
+      "total_duration": 2513.0,
+      "total_seizures": 17
+    },
+    "aaaaaasy": {
+      "total_files": 27,
+      "suitable_files": 0,
+      "total_duration": 6829.0,
+      "total_seizures": 19
+    }
+  },
+  "summary": {
+    "total_patients": 27,
+    "total_analyzed_files": 100,
+    "total_suitable_files": 1,
+    "total_rejected_files": 99,
+    "selection_rate_percent": 1.0,
+    "estimated_suitable_in_full_dataset": 46
+  }
+}

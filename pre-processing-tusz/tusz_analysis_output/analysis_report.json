@@ -1,0 +1,4928 @@
+{
+  "dataset_summary": {
+    "total_patients": 579,
+    "total_files": 4664,
+    "total_duration_hours": 910.3413888888889,
+    "seizure_types_found": [
+      "bckg",
+      "cpsz",
+      "gnsz",
+      "fnsz",
+      "tcsz",
+      "absz",
+      "mysz",
+      "tnsz",
+      "spsz"
+    ]
+  },
+  "label_distribution": {
+    "bckg": 122521,
+    "cpsz": 3002,
+    "gnsz": 7570,
+    "fnsz": 12889,
+    "tcsz": 633,
+    "absz": 1099,
+    "mysz": 44,
+    "tnsz": 380,
+    "spsz": 942
+  },
+  "patient_summaries": {
+    "aaaaaaac": {
+      "sessions": 4,
+      "total_files": 9,
+      "duration_minutes": 50.25,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaaag": {
+      "sessions": 3,
+      "total_files": 7,
+      "duration_minutes": 76.66666666666667,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaaar": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.633333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaav": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 33.2,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaabg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.433333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaacc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.566666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaacz": {
+      "sessions": 3,
+      "total_files": 3,
+      "duration_minutes": 63.2,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaaed": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 25.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaafn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.316666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaafs": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 25.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaagt": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 30.35,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaahc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaii": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.716666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaajk": {
+      "sessions": 2,
+      "total_files": 3,
+      "duration_minutes": 40.85,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaju": {
+      "sessions": 6,
+      "total_files": 6,
+      "duration_minutes": 123.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaajv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.75,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaakm": {
+      "sessions": 2,
+      "total_files": 12,
+      "duration_minutes": 43.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaakv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaalb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.283333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaald": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.366666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaalq": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 88.5,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaamp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaapo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.416666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaqc": {
+      "sessions": 3,
+      "total_files": 3,
+      "duration_minutes": 60.85,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaql": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaasf": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 41.88333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaasy": {
+      "sessions": 5,
+      "total_files": 29,
+      "duration_minutes": 122.96666666666667,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaatf": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 100.95,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaati": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaug": {
+      "sessions": 4,
+      "total_files": 14,
+      "duration_minutes": 87.56666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaauj": {
+      "sessions": 4,
+      "total_files": 4,
+      "duration_minutes": 86.03333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaavx": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 25.733333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaawc": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 42.6,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaawe": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaawf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.616666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaxa": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 23.633333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaxg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaaxl": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 28.333333333333332,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaayg": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 24.25,
+      "seizure_types": [
+        "tcsz",
+        "bckg"
+      ]
+    },
+    "aaaaaazj": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.55,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabbc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 30.116666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabbd": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 22.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabcy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabdi": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabdv": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.666666666666668,
+      "seizure_types": [
+        "tcsz",
+        "bckg"
+      ]
+    },
+    "aaaaabfo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.1,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabfv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabgs": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 57.55,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabhz": {
+      "sessions": 8,
+      "total_files": 37,
+      "duration_minutes": 245.15,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaabiq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabiw": {
+      "sessions": 12,
+      "total_files": 33,
+      "duration_minutes": 269.48333333333335,
+      "seizure_types": [
+        "tcsz",
+        "bckg"
+      ]
+    },
+    "aaaaabiy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.966666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabjm": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.533333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabjo": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 11.566666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabjt": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 26.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabke": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 20.616666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabln": {
+      "sessions": 1,
+      "total_files": 9,
+      "duration_minutes": 64.91666666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabms": {
+      "sessions": 4,
+      "total_files": 14,
+      "duration_minutes": 101.7,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabnm": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.283333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabnn": {
+      "sessions": 4,
+      "total_files": 13,
+      "duration_minutes": 76.31666666666666,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaabnq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.95,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabnu": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 15.166666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabog": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabok": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabom": {
+      "sessions": 1,
+      "total_files": 15,
+      "duration_minutes": 20.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabpp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 58.483333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabqv": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 46.833333333333336,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaabqy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.866666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabsz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabts": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.016666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabui": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 22.866666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabuv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabvy": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 8.533333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabwt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabxr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.466666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabyr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabyy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.466666666666665,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaabzf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.966666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaabzx": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacaf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.116666666666667,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacar": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacby": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaccj": {
+      "sessions": 3,
+      "total_files": 3,
+      "duration_minutes": 64.01666666666667,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaacex": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.983333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacfa": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 60.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacfv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaachj": {
+      "sessions": 2,
+      "total_files": 10,
+      "duration_minutes": 49.11666666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaachl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacho": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.25,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacjb": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 62.016666666666666,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacjt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.566666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacki": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacle": {
+      "sessions": 2,
+      "total_files": 12,
+      "duration_minutes": 57.28333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaclp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.4,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacmr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.016666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacna": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 58.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacni": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.766666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacpl": {
+      "sessions": 2,
+      "total_files": 6,
+      "duration_minutes": 38.06666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacqn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacrb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.683333333333334,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaacrd": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacsa": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.433333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacsx": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.433333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaactf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacts": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacug": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacut": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 57.083333333333336,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacwu": {
+      "sessions": 1,
+      "total_files": 10,
+      "duration_minutes": 10.4,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaacwv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 17.783333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacyf": {
+      "sessions": 8,
+      "total_files": 34,
+      "duration_minutes": 285.81666666666666,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaacyk": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaacyy": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaczt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.55,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadao": {
+      "sessions": 2,
+      "total_files": 15,
+      "duration_minutes": 53.85,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadaq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.666666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadax": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadbc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.833333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaddu": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 42.333333333333336,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadhe": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 51.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadhp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 30.883333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadhw": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 25.683333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadhz": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadia": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.233333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadiy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadjj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.85,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadli": {
+      "sessions": 2,
+      "total_files": 3,
+      "duration_minutes": 54.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadmi": {
+      "sessions": 6,
+      "total_files": 64,
+      "duration_minutes": 428.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadmz": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 13.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadno": {
+      "sessions": 3,
+      "total_files": 19,
+      "duration_minutes": 88.48333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadns": {
+      "sessions": 2,
+      "total_files": 5,
+      "duration_minutes": 52.68333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadoc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadpj": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 47.2,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadpr": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.883333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadqb": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.016666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadqe": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 37.016666666666666,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaadri": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 19.9,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadro": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 25.916666666666668,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadrt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.616666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadse": {
+      "sessions": 1,
+      "total_files": 7,
+      "duration_minutes": 15.033333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadsz": {
+      "sessions": 5,
+      "total_files": 10,
+      "duration_minutes": 110.23333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaadtv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.6,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaduu": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 8.4,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadwo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.083333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaadyf": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 44.56666666666667,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaaead": {
+      "sessions": 2,
+      "total_files": 3,
+      "duration_minutes": 36.55,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaeau": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 18.95,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaebw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaece": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.1,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaedo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 38.21666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaedy": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 68.4,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaedz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.716666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeet": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaefn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaegi": {
+      "sessions": 3,
+      "total_files": 3,
+      "duration_minutes": 69.78333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaegv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeha": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 67.36666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeij": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.783333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaelb": {
+      "sessions": 5,
+      "total_files": 15,
+      "duration_minutes": 172.25,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaelp": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 39.78333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaelv": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.083333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaemu": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaemw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaenl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.516666666666666,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaaent": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 51.95,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeph": {
+      "sessions": 4,
+      "total_files": 26,
+      "duration_minutes": 107.48333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeqh": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 23.883333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaeqy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaerk": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 42.18333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaetk": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 25.733333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaetm": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 23.516666666666666,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaewg": {
+      "sessions": 2,
+      "total_files": 6,
+      "duration_minutes": 34.266666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaewi": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaexq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaexr": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 20.233333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaeys": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafav": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 32.583333333333336,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaafbn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafef": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafgk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaafie": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 27.316666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafjj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.816666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafjw": {
+      "sessions": 3,
+      "total_files": 22,
+      "duration_minutes": 70.23333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaflc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.0,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaafli": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafoq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.083333333333332,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaafrv": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafsb": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 36.43333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaftk": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 24.416666666666668,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaftl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafwi": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafwz": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 23.133333333333333,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaafxk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafxr": {
+      "sessions": 3,
+      "total_files": 18,
+      "duration_minutes": 42.85,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaafye": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 21.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafyv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafza": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafzl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafzp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafzr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.733333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaafzt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.3,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagcs": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 41.766666666666666,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaagdh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.583333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagez": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 19.816666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagfw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaggi": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagje": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagkw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.833333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagmg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagoo": {
+      "sessions": 3,
+      "total_files": 9,
+      "duration_minutes": 54.18333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagpk": {
+      "sessions": 4,
+      "total_files": 25,
+      "duration_minutes": 402.6666666666667,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagqb": {
+      "sessions": 4,
+      "total_files": 5,
+      "duration_minutes": 87.38333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagro": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 45.21666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagrz": {
+      "sessions": 2,
+      "total_files": 11,
+      "duration_minutes": 49.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagsc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagtc": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 22.283333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagtt": {
+      "sessions": 5,
+      "total_files": 23,
+      "duration_minutes": 84.25,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaguu": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.033333333333335,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaagxd": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.566666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagxr": {
+      "sessions": 17,
+      "total_files": 78,
+      "duration_minutes": 1035.7333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagym": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.716666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaagzn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.583333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahao": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.15,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahbb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahbq": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahcp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahcr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahct": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.9,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahea": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahef": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.183333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaheg": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 19.883333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahfd": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.083333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahge": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.0,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaahhh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.016666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahlh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahlq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 35.38333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaahma": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 36.2,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaahnz": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahoa": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 26.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahof": {
+      "sessions": 3,
+      "total_files": 7,
+      "duration_minutes": 30.3,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaahoh": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahpi": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 25.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahqv": {
+      "sessions": 2,
+      "total_files": 14,
+      "duration_minutes": 92.16666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahrg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahrj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahth": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahun": {
+      "sessions": 3,
+      "total_files": 7,
+      "duration_minutes": 87.26666666666667,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaahux": {
+      "sessions": 2,
+      "total_files": 4,
+      "duration_minutes": 46.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahvw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahvx": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahwt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaahxq": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 22.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaahxr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 15.6,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaahyp": {
+      "sessions": 4,
+      "total_files": 15,
+      "duration_minutes": 99.0,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaiad": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 40.666666666666664,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaias": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 79.93333333333334,
+      "seizure_types": [
+        "tcsz",
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaiat": {
+      "sessions": 11,
+      "total_files": 38,
+      "duration_minutes": 427.5,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaibs": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 90.95,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaicj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.433333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaicq": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 51.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaiea": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 28.25,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaieo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaiev": {
+      "sessions": 3,
+      "total_files": 16,
+      "duration_minutes": 114.03333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaifq": {
+      "sessions": 4,
+      "total_files": 4,
+      "duration_minutes": 81.4,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaigl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaihp": {
+      "sessions": 1,
+      "total_files": 7,
+      "duration_minutes": 25.583333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaiir": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 56.96666666666667,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaijs": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 20.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaike": {
+      "sessions": 4,
+      "total_files": 8,
+      "duration_minutes": 63.666666666666664,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaimu": {
+      "sessions": 3,
+      "total_files": 23,
+      "duration_minutes": 623.0666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaainq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.433333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaint": {
+      "sessions": 5,
+      "total_files": 5,
+      "duration_minutes": 100.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaipg": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 47.45,
+      "seizure_types": [
+        "tcsz",
+        "bckg"
+      ]
+    },
+    "aaaaaiui": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.6,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaiwu": {
+      "sessions": 2,
+      "total_files": 16,
+      "duration_minutes": 45.916666666666664,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaizz": {
+      "sessions": 3,
+      "total_files": 4,
+      "duration_minutes": 60.516666666666666,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaajad": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 40.15,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajat": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 111.61666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajax": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 58.983333333333334,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajby": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 43.31666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajcd": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.916666666666668,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajdn": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 90.35,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajfq": {
+      "sessions": 12,
+      "total_files": 41,
+      "duration_minutes": 369.15,
+      "seizure_types": [
+        "gnsz",
+        "bckg",
+        "tcsz",
+        "fnsz",
+        "cpsz"
+      ]
+    },
+    "aaaaajfw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajgl": {
+      "sessions": 1,
+      "total_files": 7,
+      "duration_minutes": 19.383333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajkh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.233333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajki": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.383333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajmm": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.75,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajmr": {
+      "sessions": 3,
+      "total_files": 6,
+      "duration_minutes": 87.85,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaajns": {
+      "sessions": 7,
+      "total_files": 15,
+      "duration_minutes": 155.5,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajnw": {
+      "sessions": 3,
+      "total_files": 7,
+      "duration_minutes": 52.03333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajoe": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.416666666666668,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajoh": {
+      "sessions": 5,
+      "total_files": 22,
+      "duration_minutes": 347.03333333333336,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajpi": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 19.916666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajqb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajqh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.183333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajqo": {
+      "sessions": 20,
+      "total_files": 57,
+      "duration_minutes": 1174.0833333333333,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajqp": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.383333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajqu": {
+      "sessions": 2,
+      "total_files": 11,
+      "duration_minutes": 79.91666666666667,
+      "seizure_types": [
+        "tcsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajrd": {
+      "sessions": 2,
+      "total_files": 5,
+      "duration_minutes": 61.36666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajrj": {
+      "sessions": 6,
+      "total_files": 48,
+      "duration_minutes": 422.15,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaajrs": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.783333333333335,
+      "seizure_types": [
+        "mysz",
+        "bckg"
+      ]
+    },
+    "aaaaajsj": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 15.016666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajsk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajsl": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 95.83333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaajud": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 35.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajvs": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 65.08333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajxq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaajxr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakal": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakao": {
+      "sessions": 1,
+      "total_files": 11,
+      "duration_minutes": 78.55,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakbz": {
+      "sessions": 6,
+      "total_files": 13,
+      "duration_minutes": 160.06666666666666,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaakea": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 26.716666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakfo": {
+      "sessions": 5,
+      "total_files": 21,
+      "duration_minutes": 212.71666666666667,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaakkm": {
+      "sessions": 8,
+      "total_files": 32,
+      "duration_minutes": 315.8666666666667,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakks": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 53.28333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaklv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakmu": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 112.43333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakmw": {
+      "sessions": 1,
+      "total_files": 12,
+      "duration_minutes": 11.583333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakmx": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.483333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaknk": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 21.55,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakny": {
+      "sessions": 4,
+      "total_files": 25,
+      "duration_minutes": 194.23333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakoe": {
+      "sessions": 3,
+      "total_files": 11,
+      "duration_minutes": 165.75,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakog": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 40.31666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakpu": {
+      "sessions": 4,
+      "total_files": 14,
+      "duration_minutes": 119.03333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakqu": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 45.55,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaakro": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 41.3,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakrt": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 25.4,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaksg": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 75.91666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaksh": {
+      "sessions": 6,
+      "total_files": 18,
+      "duration_minutes": 208.3,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaaksy": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 54.88333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaktb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaktk": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 27.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaktz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakuq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakvb": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 51.11666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakvh": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakxq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.866666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaakzv": {
+      "sessions": 2,
+      "total_files": 7,
+      "duration_minutes": 78.96666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalak": {
+      "sessions": 4,
+      "total_files": 22,
+      "duration_minutes": 190.25,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalaw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.966666666666665,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalbn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.483333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalcq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalep": {
+      "sessions": 1,
+      "total_files": 9,
+      "duration_minutes": 60.75,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalfs": {
+      "sessions": 3,
+      "total_files": 9,
+      "duration_minutes": 126.08333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalgz": {
+      "sessions": 2,
+      "total_files": 6,
+      "duration_minutes": 85.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalhf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.933333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalim": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.866666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaliv": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 60.03333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaljo": {
+      "sessions": 1,
+      "total_files": 4,
+      "duration_minutes": 20.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalmx": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 94.7,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalmy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalmz": {
+      "sessions": 4,
+      "total_files": 22,
+      "duration_minutes": 307.28333333333336,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalnt": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 70.83333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalnv": {
+      "sessions": 6,
+      "total_files": 43,
+      "duration_minutes": 168.16666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalnx": {
+      "sessions": 1,
+      "total_files": 7,
+      "duration_minutes": 46.13333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaloc": {
+      "sessions": 1,
+      "total_files": 9,
+      "duration_minutes": 82.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalpc": {
+      "sessions": 3,
+      "total_files": 19,
+      "duration_minutes": 301.98333333333335,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalpj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.05,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalpn": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 72.21666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalrn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalsg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalsj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.016666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalsz": {
+      "sessions": 3,
+      "total_files": 11,
+      "duration_minutes": 84.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaltg": {
+      "sessions": 3,
+      "total_files": 20,
+      "duration_minutes": 135.35,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalth": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 40.18333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaltw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.233333333333334,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalwk": {
+      "sessions": 1,
+      "total_files": 9,
+      "duration_minutes": 70.61666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalwv": {
+      "sessions": 3,
+      "total_files": 16,
+      "duration_minutes": 125.96666666666667,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaalxt": {
+      "sessions": 3,
+      "total_files": 20,
+      "duration_minutes": 159.95,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalxw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaalzg": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 85.88333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaalzo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 19.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaambf": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 61.53333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaambs": {
+      "sessions": 6,
+      "total_files": 64,
+      "duration_minutes": 504.68333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamca": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 120.5,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamcy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamdo": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.35,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamgy": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 54.8,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamhb": {
+      "sessions": 13,
+      "total_files": 83,
+      "duration_minutes": 755.8833333333333,
+      "seizure_types": [
+        "fnsz",
+        "cpsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamhj": {
+      "sessions": 6,
+      "total_files": 30,
+      "duration_minutes": 261.15,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamiz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.066666666666666,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaammq": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 32.46666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaammu": {
+      "sessions": 4,
+      "total_files": 25,
+      "duration_minutes": 241.58333333333334,
+      "seizure_types": [
+        "tnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamnl": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 24.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamnv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.466666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamoa": {
+      "sessions": 7,
+      "total_files": 39,
+      "duration_minutes": 379.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamoe": {
+      "sessions": 7,
+      "total_files": 22,
+      "duration_minutes": 386.8,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamof": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 87.88333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamol": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamoq": {
+      "sessions": 1,
+      "total_files": 11,
+      "duration_minutes": 85.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaampz": {
+      "sessions": 4,
+      "total_files": 21,
+      "duration_minutes": 184.71666666666667,
+      "seizure_types": [
+        "spsz",
+        "bckg"
+      ]
+    },
+    "aaaaamqy": {
+      "sessions": 9,
+      "total_files": 51,
+      "duration_minutes": 476.25,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamrh": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 60.06666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamrt": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 54.13333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamru": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamrz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamtc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.516666666666666,
+      "seizure_types": [
+        "absz",
+        "bckg"
+      ]
+    },
+    "aaaaamtj": {
+      "sessions": 2,
+      "total_files": 4,
+      "duration_minutes": 50.86666666666667,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    },
+    "aaaaamtk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 55.61666666666667,
+      "seizure_types": [
+        "spsz",
+        "bckg"
+      ]
+    },
+    "aaaaamtw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamul": {
+      "sessions": 2,
+      "total_files": 12,
+      "duration_minutes": 107.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamvc": {
+      "sessions": 2,
+      "total_files": 10,
+      "duration_minutes": 100.16666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamww": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 60.1,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaamxu": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamyc": {
+      "sessions": 6,
+      "total_files": 39,
+      "duration_minutes": 356.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaamyy": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 22.1,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanbj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.45,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanbp": {
+      "sessions": 2,
+      "total_files": 4,
+      "duration_minutes": 51.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanbv": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 24.15,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanct": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.083333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaands": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaandu": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 23.6,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanfx": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.183333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaangj": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.6,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanhb": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 24.933333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanhk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanji": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.35,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanjw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 18.583333333333332,
+      "seizure_types": [
+        "tnsz",
+        "bckg"
+      ]
+    },
+    "aaaaankc": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 102.48333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanlx": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 20.766666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanme": {
+      "sessions": 12,
+      "total_files": 97,
+      "duration_minutes": 1399.9666666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanmh": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 20.133333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanmk": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 25.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanoa": {
+      "sessions": 2,
+      "total_files": 10,
+      "duration_minutes": 79.86666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanog": {
+      "sessions": 9,
+      "total_files": 28,
+      "duration_minutes": 323.26666666666665,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanok": {
+      "sessions": 2,
+      "total_files": 20,
+      "duration_minutes": 168.1,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanrb": {
+      "sessions": 5,
+      "total_files": 33,
+      "duration_minutes": 263.1166666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanrc": {
+      "sessions": 4,
+      "total_files": 24,
+      "duration_minutes": 193.08333333333334,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanrp": {
+      "sessions": 7,
+      "total_files": 50,
+      "duration_minutes": 510.1666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaantp": {
+      "sessions": 3,
+      "total_files": 6,
+      "duration_minutes": 69.15,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaantz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanvn": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.3,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanvs": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 51.666666666666664,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanwk": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 60.06666666666667,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaanzg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.6,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaanzr": {
+      "sessions": 1,
+      "total_files": 6,
+      "duration_minutes": 45.81666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaobu": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaocj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaocm": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 43.88333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaocq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.783333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaocy": {
+      "sessions": 2,
+      "total_files": 11,
+      "duration_minutes": 88.78333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaoee": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaogd": {
+      "sessions": 11,
+      "total_files": 61,
+      "duration_minutes": 536.1666666666666,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaogk": {
+      "sessions": 3,
+      "total_files": 8,
+      "duration_minutes": 185.81666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaogm": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaohx": {
+      "sessions": 2,
+      "total_files": 4,
+      "duration_minutes": 48.9,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoiw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.25,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaokk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.216666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaolm": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 31.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaooo": {
+      "sessions": 3,
+      "total_files": 11,
+      "duration_minutes": 157.53333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaooy": {
+      "sessions": 2,
+      "total_files": 10,
+      "duration_minutes": 81.25,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaopa": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.183333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoqa": {
+      "sessions": 3,
+      "total_files": 13,
+      "duration_minutes": 134.63333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoqb": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.65,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoqf": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 25.066666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaoqw": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.916666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaora": {
+      "sessions": 2,
+      "total_files": 2,
+      "duration_minutes": 47.13333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaosa": {
+      "sessions": 4,
+      "total_files": 36,
+      "duration_minutes": 473.15,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaosc": {
+      "sessions": 2,
+      "total_files": 11,
+      "duration_minutes": 114.25,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaota": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 43.11666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaouk": {
+      "sessions": 7,
+      "total_files": 25,
+      "duration_minutes": 257.6333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaovk": {
+      "sessions": 2,
+      "total_files": 3,
+      "duration_minutes": 58.7,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaovn": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 62.35,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaovz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.116666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaowz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoxr": {
+      "sessions": 1,
+      "total_files": 11,
+      "duration_minutes": 85.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaoya": {
+      "sessions": 11,
+      "total_files": 96,
+      "duration_minutes": 742.2666666666667,
+      "seizure_types": [
+        "tcsz",
+        "bckg"
+      ]
+    },
+    "aaaaaoyq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaozv": {
+      "sessions": 2,
+      "total_files": 11,
+      "duration_minutes": 103.58333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapai": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapas": {
+      "sessions": 4,
+      "total_files": 17,
+      "duration_minutes": 188.86666666666667,
+      "seizure_types": [
+        "tcsz",
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaapay": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 107.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapcj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.183333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapcr": {
+      "sessions": 5,
+      "total_files": 35,
+      "duration_minutes": 300.8833333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapdq": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 24.833333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaped": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.4,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapey": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapff": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.233333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapfv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 20.566666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapgf": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 30.666666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapgz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.716666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapiq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.366666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapkm": {
+      "sessions": 1,
+      "total_files": 5,
+      "duration_minutes": 41.483333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapks": {
+      "sessions": 15,
+      "total_files": 94,
+      "duration_minutes": 911.9333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaapkv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 31.316666666666666,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaplb": {
+      "sessions": 3,
+      "total_files": 29,
+      "duration_minutes": 359.71666666666664,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaplj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.066666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaply": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.633333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapmd": {
+      "sessions": 4,
+      "total_files": 20,
+      "duration_minutes": 214.85,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaapmj": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.166666666666668,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapnc": {
+      "sessions": 5,
+      "total_files": 43,
+      "duration_minutes": 324.1666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapnl": {
+      "sessions": 8,
+      "total_files": 57,
+      "duration_minutes": 483.4,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaapon": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 20.533333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaappt": {
+      "sessions": 3,
+      "total_files": 25,
+      "duration_minutes": 210.08333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaappv": {
+      "sessions": 2,
+      "total_files": 12,
+      "duration_minutes": 102.81666666666666,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaappz": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 75.76666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapqh": {
+      "sessions": 4,
+      "total_files": 17,
+      "duration_minutes": 142.23333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaprc": {
+      "sessions": 2,
+      "total_files": 8,
+      "duration_minutes": 106.46666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaprf": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 93.86666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaprj": {
+      "sessions": 5,
+      "total_files": 40,
+      "duration_minutes": 303.9166666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaptz": {
+      "sessions": 2,
+      "total_files": 10,
+      "duration_minutes": 100.23333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapus": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapwy": {
+      "sessions": 2,
+      "total_files": 19,
+      "duration_minutes": 148.9,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaapxw": {
+      "sessions": 3,
+      "total_files": 22,
+      "duration_minutes": 204.06666666666666,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaapzi": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqbb": {
+      "sessions": 4,
+      "total_files": 11,
+      "duration_minutes": 81.26666666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqds": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 41.0,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqfx": {
+      "sessions": 4,
+      "total_files": 5,
+      "duration_minutes": 76.16666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqjn": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 41.13333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqkb": {
+      "sessions": 4,
+      "total_files": 41,
+      "duration_minutes": 417.56666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqkf": {
+      "sessions": 4,
+      "total_files": 24,
+      "duration_minutes": 228.23333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqkh": {
+      "sessions": 3,
+      "total_files": 22,
+      "duration_minutes": 209.86666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqmv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.983333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqnr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.75,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqqq": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.083333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqro": {
+      "sessions": 2,
+      "total_files": 15,
+      "duration_minutes": 375.1333333333333,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqtl": {
+      "sessions": 4,
+      "total_files": 29,
+      "duration_minutes": 1673.4333333333334,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqtu": {
+      "sessions": 2,
+      "total_files": 21,
+      "duration_minutes": 131.78333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqtx": {
+      "sessions": 7,
+      "total_files": 38,
+      "duration_minutes": 774.1833333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaqvr": {
+      "sessions": 4,
+      "total_files": 24,
+      "duration_minutes": 206.28333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqyo": {
+      "sessions": 2,
+      "total_files": 28,
+      "duration_minutes": 714.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqyp": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.516666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaqzc": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.233333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarcf": {
+      "sessions": 3,
+      "total_files": 12,
+      "duration_minutes": 271.7,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarcs": {
+      "sessions": 4,
+      "total_files": 23,
+      "duration_minutes": 229.41666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaardk": {
+      "sessions": 4,
+      "total_files": 63,
+      "duration_minutes": 824.5166666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarea": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 287.03333333333336,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarew": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 26.35,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarfa": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 25.466666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarhk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarne": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 41.03333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaron": {
+      "sessions": 4,
+      "total_files": 34,
+      "duration_minutes": 292.3333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaroo": {
+      "sessions": 7,
+      "total_files": 34,
+      "duration_minutes": 1134.2166666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaror": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.783333333333335,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarqg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 44.95,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarqh": {
+      "sessions": 3,
+      "total_files": 17,
+      "duration_minutes": 130.75,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarqt": {
+      "sessions": 1,
+      "total_files": 8,
+      "duration_minutes": 65.08333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarsm": {
+      "sessions": 8,
+      "total_files": 47,
+      "duration_minutes": 347.81666666666666,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarso": {
+      "sessions": 2,
+      "total_files": 14,
+      "duration_minutes": 75.58333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaarsv": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.283333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaartn": {
+      "sessions": 1,
+      "total_files": 20,
+      "duration_minutes": 231.11666666666667,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarvi": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 41.06666666666667,
+      "seizure_types": [
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaarwg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 42.05,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasar": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.5,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasby": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 23.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaascj": {
+      "sessions": 5,
+      "total_files": 34,
+      "duration_minutes": 280.6333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasdq": {
+      "sessions": 5,
+      "total_files": 31,
+      "duration_minutes": 320.23333333333335,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaasjh": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 22.016666666666666,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaasjq": {
+      "sessions": 1,
+      "total_files": 16,
+      "duration_minutes": 119.66666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasme": {
+      "sessions": 4,
+      "total_files": 19,
+      "duration_minutes": 192.86666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaasrf": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 21.466666666666665,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaassg": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.883333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaastr": {
+      "sessions": 3,
+      "total_files": 18,
+      "duration_minutes": 443.55,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaasuh": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.833333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasum": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.1,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaasut": {
+      "sessions": 3,
+      "total_files": 17,
+      "duration_minutes": 202.2,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaaswl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.333333333333332,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaaswt": {
+      "sessions": 1,
+      "total_files": 3,
+      "duration_minutes": 47.15,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaasxu": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.816666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatbr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.9,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatds": {
+      "sessions": 4,
+      "total_files": 36,
+      "duration_minutes": 311.1333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatej": {
+      "sessions": 1,
+      "total_files": 17,
+      "duration_minutes": 86.28333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatem": {
+      "sessions": 3,
+      "total_files": 21,
+      "duration_minutes": 543.6666666666666,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaateq": {
+      "sessions": 2,
+      "total_files": 9,
+      "duration_minutes": 93.76666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaates": {
+      "sessions": 7,
+      "total_files": 51,
+      "duration_minutes": 648.7333333333333,
+      "seizure_types": [
+        "fnsz",
+        "gnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatez": {
+      "sessions": 4,
+      "total_files": 29,
+      "duration_minutes": 260.85,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatfe": {
+      "sessions": 1,
+      "total_files": 2,
+      "duration_minutes": 24.2,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatgk": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 24.383333333333333,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatgl": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.35,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatjh": {
+      "sessions": 1,
+      "total_files": 16,
+      "duration_minutes": 116.46666666666667,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatjr": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 22.2,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatjz": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 31.633333333333333,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatki": {
+      "sessions": 3,
+      "total_files": 10,
+      "duration_minutes": 2256.366666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatlp": {
+      "sessions": 7,
+      "total_files": 61,
+      "duration_minutes": 467.65,
+      "seizure_types": [
+        "fnsz",
+        "bckg"
+      ]
+    },
+    "aaaaatna": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.75,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatsy": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 28.033333333333335,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatth": {
+      "sessions": 1,
+      "total_files": 1,
+      "duration_minutes": 21.483333333333334,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatvk": {
+      "sessions": 2,
+      "total_files": 13,
+      "duration_minutes": 73.16666666666667,
+      "seizure_types": [
+        "bckg"
+      ]
+    },
+    "aaaaatvr": {
+      "sessions": 5,
+      "total_files": 51,
+      "duration_minutes": 198.5,
+      "seizure_types": [
+        "cpsz",
+        "bckg"
+      ]
+    }
+  }
+}

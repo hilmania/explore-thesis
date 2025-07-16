@@ -1,0 +1,2 @@
+patient_id,session_id,file_path,duration_minutes,seizure_count,seizure_types,preictal_minutes
+aaaaaaav,s001_2006,aaaaaaav/s001_2006/02_tcp_le/aaaaaaav_s001_t000.csv,33.2,4,cpsz,21.2242
